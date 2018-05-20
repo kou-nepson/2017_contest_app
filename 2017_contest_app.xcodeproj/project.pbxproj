@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		547814F1C1DF6C691D95CE34 /* Pods_2017_contest_appTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A70DB0C079EB6B9DE381B984 /* Pods_2017_contest_appTests.framework */; };
+		8909C0541F46CA2D00483AEE /* 問題3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8909C0531F46CA2D00483AEE /* 問題3.jpg */; };
+		8915D5391F396EE0008601ED /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8915D5381F396EE0008601ED /* AdSupport.framework */; };
+		89192FAB1F356D260017A337 /* ハーフハート.gif in Resources */ = {isa = PBXBuildFile; fileRef = 89192FA91F356D260017A337 /* ハーフハート.gif */; };
+		89192FAC1F356D260017A337 /* ハーフハート２.gif in Resources */ = {isa = PBXBuildFile; fileRef = 89192FAA1F356D260017A337 /* ハーフハート２.gif */; };
+		89192FAE1F3570F30017A337 /* PositiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89192FAD1F3570F30017A337 /* PositiveViewController.swift */; };
+		89192FB01F3571010017A337 /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89192FAF1F3571010017A337 /* QuizViewController.swift */; };
+		89192FB41F3594F70017A337 /* 不正解.png in Resources */ = {isa = PBXBuildFile; fileRef = 89192FB21F3594F70017A337 /* 不正解.png */; };
+		89192FB61F3595190017A337 /* 正解.png in Resources */ = {isa = PBXBuildFile; fileRef = 89192FB51F3595190017A337 /* 正解.png */; };
+		89192FB81F359B420017A337 /* クイズ＿ロゴ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89192FB71F359B420017A337 /* クイズ＿ロゴ.jpg */; };
+		89382D2B1F36E0910051FDF1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 89382D2A1F36E0910051FDF1 /* GoogleService-Info.plist */; };
+		8943B5F31F3A9C4F00B852DE /* charity_sns_icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8943B5F21F3A9C4F00B852DE /* charity_sns_icon.jpg */; };
+		8943B5F51F3AA9C900B852DE /* 問題１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8943B5F41F3AA9C900B852DE /* 問題１.jpg */; };
+		894F6B501F36F6DA00222487 /* Charity_SnsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894F6B4F1F36F6DA00222487 /* Charity_SnsViewController.swift */; };
+		89541C191F4828B90042936E /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 89541C181F4828B90042936E /* icon.png */; };
+		896A5DE61F47F4C40021606E /* チェックテスト２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 896A5DE51F47F4C40021606E /* チェックテスト２.jpg */; };
+		896A5DEA1F47FDA50021606E /* チェックテスト３.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 896A5DE91F47FDA50021606E /* チェックテスト３.jpg */; };
 		89A7A4061F356BB70068D092 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A7A4051F356BB70068D092 /* AppDelegate.swift */; };
 		89A7A4081F356BB70068D092 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A7A4071F356BB70068D092 /* ViewController.swift */; };
 		89A7A40B1F356BB70068D092 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89A7A4091F356BB70068D092 /* Main.storyboard */; };
@@ -14,6 +31,11 @@
 		89A7A4101F356BB70068D092 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89A7A40E1F356BB70068D092 /* LaunchScreen.storyboard */; };
 		89A7A41B1F356BB80068D092 /* _017_contest_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A7A41A1F356BB80068D092 /* _017_contest_appTests.swift */; };
 		89A7A4261F356BB80068D092 /* _017_contest_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A7A4251F356BB80068D092 /* _017_contest_appUITests.swift */; };
+		89D029F71F3AE4CC007632EC /* 問題２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89D029F61F3AE4CC007632EC /* 問題２.jpg */; };
+		89F497601F42C6970024D6ED /* positive_SnsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F4975F1F42C6970024D6ED /* positive_SnsViewController.swift */; };
+		89F497621F44067C0024D6ED /* チェックテスト１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89F497611F44067C0024D6ED /* チェックテスト１.jpg */; };
+		BEC3DDFD1322224B8E2E9C9A /* Pods_2017_contest_app.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 067238F00D07B039911632E8 /* Pods_2017_contest_app.framework */; };
+		E438AB138FDF8DCF311C56CE /* Pods_2017_contest_appUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA699802F7E5AC4555D604A3 /* Pods_2017_contest_appUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +56,28 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		067238F00D07B039911632E8 /* Pods_2017_contest_app.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_2017_contest_app.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1F22A36E8B1C44B51D41F43C /* Pods-2017_contest_appUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-2017_contest_appUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-2017_contest_appUITests/Pods-2017_contest_appUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		4E7A50F9316B7BF5E18349B4 /* Pods-2017_contest_appUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-2017_contest_appUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-2017_contest_appUITests/Pods-2017_contest_appUITests.release.xcconfig"; sourceTree = "<group>"; };
+		682EB2A898B00D983D716A08 /* Pods-2017_contest_appTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-2017_contest_appTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-2017_contest_appTests/Pods-2017_contest_appTests.debug.xcconfig"; sourceTree = "<group>"; };
+		78F3E609EA7C66A0703BD3A6 /* Pods-2017_contest_app.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-2017_contest_app.debug.xcconfig"; path = "Pods/Target Support Files/Pods-2017_contest_app/Pods-2017_contest_app.debug.xcconfig"; sourceTree = "<group>"; };
+		863098FB91C899E09B21AA8D /* Pods-2017_contest_app.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-2017_contest_app.release.xcconfig"; path = "Pods/Target Support Files/Pods-2017_contest_app/Pods-2017_contest_app.release.xcconfig"; sourceTree = "<group>"; };
+		8909C0531F46CA2D00483AEE /* 問題3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "問題3.jpg"; sourceTree = "<group>"; };
+		8915D5381F396EE0008601ED /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		89192FA91F356D260017A337 /* ハーフハート.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "ハーフハート.gif"; sourceTree = "<group>"; };
+		89192FAA1F356D260017A337 /* ハーフハート２.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "ハーフハート２.gif"; sourceTree = "<group>"; };
+		89192FAD1F3570F30017A337 /* PositiveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PositiveViewController.swift; sourceTree = "<group>"; };
+		89192FAF1F3571010017A337 /* QuizViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
+		89192FB21F3594F70017A337 /* 不正解.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "不正解.png"; sourceTree = "<group>"; };
+		89192FB51F3595190017A337 /* 正解.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "正解.png"; sourceTree = "<group>"; };
+		89192FB71F359B420017A337 /* クイズ＿ロゴ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "クイズ＿ロゴ.jpg"; sourceTree = "<group>"; };
+		89382D2A1F36E0910051FDF1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		8943B5F21F3A9C4F00B852DE /* charity_sns_icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charity_sns_icon.jpg; sourceTree = "<group>"; };
+		8943B5F41F3AA9C900B852DE /* 問題１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "問題１.jpg"; sourceTree = "<group>"; };
+		894F6B4F1F36F6DA00222487 /* Charity_SnsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charity_SnsViewController.swift; sourceTree = "<group>"; };
+		89541C181F4828B90042936E /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		896A5DE51F47F4C40021606E /* チェックテスト２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "チェックテスト２.jpg"; sourceTree = "<group>"; };
+		896A5DE91F47FDA50021606E /* チェックテスト３.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "チェックテスト３.jpg"; sourceTree = "<group>"; };
 		89A7A4021F356BB70068D092 /* 2017_contest_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 2017_contest_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		89A7A4051F356BB70068D092 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		89A7A4071F356BB70068D092 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +91,12 @@
 		89A7A4211F356BB80068D092 /* 2017_contest_appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 2017_contest_appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		89A7A4251F356BB80068D092 /* _017_contest_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _017_contest_appUITests.swift; sourceTree = "<group>"; };
 		89A7A4271F356BB80068D092 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89D029F61F3AE4CC007632EC /* 問題２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "問題２.jpg"; sourceTree = "<group>"; };
+		89F4975F1F42C6970024D6ED /* positive_SnsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = positive_SnsViewController.swift; sourceTree = "<group>"; };
+		89F497611F44067C0024D6ED /* チェックテスト１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "チェックテスト１.jpg"; sourceTree = "<group>"; };
+		A70DB0C079EB6B9DE381B984 /* Pods_2017_contest_appTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_2017_contest_appTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA699802F7E5AC4555D604A3 /* Pods_2017_contest_appUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_2017_contest_appUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8CAA54455CB64C744B14AAB /* Pods-2017_contest_appTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-2017_contest_appTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-2017_contest_appTests/Pods-2017_contest_appTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +104,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8915D5391F396EE0008601ED /* AdSupport.framework in Frameworks */,
+				BEC3DDFD1322224B8E2E9C9A /* Pods_2017_contest_app.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +113,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				547814F1C1DF6C691D95CE34 /* Pods_2017_contest_appTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +121,24 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E438AB138FDF8DCF311C56CE /* Pods_2017_contest_appUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		520B2E76267C39F76DC0B1D0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8915D5381F396EE0008601ED /* AdSupport.framework */,
+				067238F00D07B039911632E8 /* Pods_2017_contest_app.framework */,
+				A70DB0C079EB6B9DE381B984 /* Pods_2017_contest_appTests.framework */,
+				AA699802F7E5AC4555D604A3 /* Pods_2017_contest_appUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		89A7A3F91F356BB70068D092 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +146,8 @@
 				89A7A4191F356BB80068D092 /* 2017_contest_appTests */,
 				89A7A4241F356BB80068D092 /* 2017_contest_appUITests */,
 				89A7A4031F356BB70068D092 /* Products */,
+				E18D6A4FD262FB027FBE4E95 /* Pods */,
+				520B2E76267C39F76DC0B1D0 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,12 +164,30 @@
 		89A7A4041F356BB70068D092 /* 2017_contest_app */ = {
 			isa = PBXGroup;
 			children = (
+				89541C181F4828B90042936E /* icon.png */,
+				896A5DE91F47FDA50021606E /* チェックテスト３.jpg */,
+				896A5DE51F47F4C40021606E /* チェックテスト２.jpg */,
+				8909C0531F46CA2D00483AEE /* 問題3.jpg */,
+				89F497611F44067C0024D6ED /* チェックテスト１.jpg */,
+				89D029F61F3AE4CC007632EC /* 問題２.jpg */,
+				8943B5F41F3AA9C900B852DE /* 問題１.jpg */,
+				8943B5F21F3A9C4F00B852DE /* charity_sns_icon.jpg */,
+				89192FB71F359B420017A337 /* クイズ＿ロゴ.jpg */,
+				89192FB51F3595190017A337 /* 正解.png */,
+				89192FB21F3594F70017A337 /* 不正解.png */,
+				89192FA91F356D260017A337 /* ハーフハート.gif */,
+				89192FAA1F356D260017A337 /* ハーフハート２.gif */,
 				89A7A4051F356BB70068D092 /* AppDelegate.swift */,
 				89A7A4071F356BB70068D092 /* ViewController.swift */,
 				89A7A4091F356BB70068D092 /* Main.storyboard */,
 				89A7A40C1F356BB70068D092 /* Assets.xcassets */,
 				89A7A40E1F356BB70068D092 /* LaunchScreen.storyboard */,
+				89382D2A1F36E0910051FDF1 /* GoogleService-Info.plist */,
 				89A7A4111F356BB70068D092 /* Info.plist */,
+				89192FAD1F3570F30017A337 /* PositiveViewController.swift */,
+				89F4975F1F42C6970024D6ED /* positive_SnsViewController.swift */,
+				89192FAF1F3571010017A337 /* QuizViewController.swift */,
+				894F6B4F1F36F6DA00222487 /* Charity_SnsViewController.swift */,
 			);
 			path = 2017_contest_app;
 			sourceTree = "<group>";
@@ -125,6 +210,19 @@
 			path = 2017_contest_appUITests;
 			sourceTree = "<group>";
 		};
+		E18D6A4FD262FB027FBE4E95 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				78F3E609EA7C66A0703BD3A6 /* Pods-2017_contest_app.debug.xcconfig */,
+				863098FB91C899E09B21AA8D /* Pods-2017_contest_app.release.xcconfig */,
+				682EB2A898B00D983D716A08 /* Pods-2017_contest_appTests.debug.xcconfig */,
+				D8CAA54455CB64C744B14AAB /* Pods-2017_contest_appTests.release.xcconfig */,
+				1F22A36E8B1C44B51D41F43C /* Pods-2017_contest_appUITests.debug.xcconfig */,
+				4E7A50F9316B7BF5E18349B4 /* Pods-2017_contest_appUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +230,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 89A7A42A1F356BB80068D092 /* Build configuration list for PBXNativeTarget "2017_contest_app" */;
 			buildPhases = (
+				03E2556539AA007616A71A87 /* [CP] Check Pods Manifest.lock */,
 				89A7A3FE1F356BB70068D092 /* Sources */,
 				89A7A3FF1F356BB70068D092 /* Frameworks */,
 				89A7A4001F356BB70068D092 /* Resources */,
+				CFCA4679FDE0CF0FC2867F1E /* [CP] Embed Pods Frameworks */,
+				BEEF75726DB9745F42955098 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -149,9 +250,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 89A7A42D1F356BB80068D092 /* Build configuration list for PBXNativeTarget "2017_contest_appTests" */;
 			buildPhases = (
+				A089B578214B9DCE230BED58 /* [CP] Check Pods Manifest.lock */,
 				89A7A4121F356BB80068D092 /* Sources */,
 				89A7A4131F356BB80068D092 /* Frameworks */,
 				89A7A4141F356BB80068D092 /* Resources */,
+				7CEF8AEEEFEFB986BF828DAE /* [CP] Embed Pods Frameworks */,
+				46B5D297596FFDC48AAC8663 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -167,9 +271,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 89A7A4301F356BB80068D092 /* Build configuration list for PBXNativeTarget "2017_contest_appUITests" */;
 			buildPhases = (
+				DBC8ECC44AA80C79F783611C /* [CP] Check Pods Manifest.lock */,
 				89A7A41D1F356BB80068D092 /* Sources */,
 				89A7A41E1F356BB80068D092 /* Frameworks */,
 				89A7A41F1F356BB80068D092 /* Resources */,
+				337C7F3DB868E78BD2BC2939 /* [CP] Embed Pods Frameworks */,
+				11381B080363CF39C9C42CD5 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -193,6 +300,7 @@
 				TargetAttributes = {
 					89A7A4011F356BB70068D092 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = NV6EXP3568;
 						ProvisioningStyle = Automatic;
 					};
 					89A7A4151F356BB80068D092 = {
@@ -232,9 +340,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89192FB81F359B420017A337 /* クイズ＿ロゴ.jpg in Resources */,
+				89F497621F44067C0024D6ED /* チェックテスト１.jpg in Resources */,
+				89192FB41F3594F70017A337 /* 不正解.png in Resources */,
+				89382D2B1F36E0910051FDF1 /* GoogleService-Info.plist in Resources */,
+				89D029F71F3AE4CC007632EC /* 問題２.jpg in Resources */,
 				89A7A4101F356BB70068D092 /* LaunchScreen.storyboard in Resources */,
+				8943B5F31F3A9C4F00B852DE /* charity_sns_icon.jpg in Resources */,
+				89192FAC1F356D260017A337 /* ハーフハート２.gif in Resources */,
+				8943B5F51F3AA9C900B852DE /* 問題１.jpg in Resources */,
+				89192FAB1F356D260017A337 /* ハーフハート.gif in Resources */,
+				8909C0541F46CA2D00483AEE /* 問題3.jpg in Resources */,
+				89192FB61F3595190017A337 /* 正解.png in Resources */,
+				89541C191F4828B90042936E /* icon.png in Resources */,
 				89A7A40D1F356BB70068D092 /* Assets.xcassets in Resources */,
 				89A7A40B1F356BB70068D092 /* Main.storyboard in Resources */,
+				896A5DE61F47F4C40021606E /* チェックテスト２.jpg in Resources */,
+				896A5DEA1F47FDA50021606E /* チェックテスト３.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,13 +376,155 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		03E2556539AA007616A71A87 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		11381B080363CF39C9C42CD5 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-2017_contest_appUITests/Pods-2017_contest_appUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		337C7F3DB868E78BD2BC2939 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-2017_contest_appUITests/Pods-2017_contest_appUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		46B5D297596FFDC48AAC8663 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-2017_contest_appTests/Pods-2017_contest_appTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7CEF8AEEEFEFB986BF828DAE /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-2017_contest_appTests/Pods-2017_contest_appTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A089B578214B9DCE230BED58 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		BEEF75726DB9745F42955098 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-2017_contest_app/Pods-2017_contest_app-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CFCA4679FDE0CF0FC2867F1E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-2017_contest_app/Pods-2017_contest_app-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DBC8ECC44AA80C79F783611C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		89A7A3FE1F356BB70068D092 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				89F497601F42C6970024D6ED /* positive_SnsViewController.swift in Sources */,
 				89A7A4081F356BB70068D092 /* ViewController.swift in Sources */,
 				89A7A4061F356BB70068D092 /* AppDelegate.swift in Sources */,
+				89192FAE1F3570F30017A337 /* PositiveViewController.swift in Sources */,
+				89192FB01F3571010017A337 /* QuizViewController.swift in Sources */,
+				894F6B501F36F6DA00222487 /* Charity_SnsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -410,9 +674,12 @@
 		};
 		89A7A42B1F356BB80068D092 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 78F3E609EA7C66A0703BD3A6 /* Pods-2017_contest_app.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NV6EXP3568;
 				INFOPLIST_FILE = 2017_contest_app/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.nepuson.-017-contest-app";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -422,9 +689,12 @@
 		};
 		89A7A42C1F356BB80068D092 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 863098FB91C899E09B21AA8D /* Pods-2017_contest_app.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NV6EXP3568;
 				INFOPLIST_FILE = 2017_contest_app/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.nepuson.-017-contest-app";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -434,6 +704,7 @@
 		};
 		89A7A42E1F356BB80068D092 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 682EB2A898B00D983D716A08 /* Pods-2017_contest_appTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -448,6 +719,7 @@
 		};
 		89A7A42F1F356BB80068D092 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D8CAA54455CB64C744B14AAB /* Pods-2017_contest_appTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -462,6 +734,7 @@
 		};
 		89A7A4311F356BB80068D092 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1F22A36E8B1C44B51D41F43C /* Pods-2017_contest_appUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				INFOPLIST_FILE = 2017_contest_appUITests/Info.plist;
@@ -475,6 +748,7 @@
 		};
 		89A7A4321F356BB80068D092 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4E7A50F9316B7BF5E18349B4 /* Pods-2017_contest_appUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				INFOPLIST_FILE = 2017_contest_appUITests/Info.plist;
@@ -505,6 +779,7 @@
 				89A7A42C1F356BB80068D092 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		89A7A42D1F356BB80068D092 /* Build configuration list for PBXNativeTarget "2017_contest_appTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +788,7 @@
 				89A7A42F1F356BB80068D092 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		89A7A4301F356BB80068D092 /* Build configuration list for PBXNativeTarget "2017_contest_appUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +797,7 @@
 				89A7A4321F356BB80068D092 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
